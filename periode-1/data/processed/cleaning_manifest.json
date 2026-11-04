@@ -1,0 +1,18 @@
+{
+  "rows_before": 235795,
+  "rows_after": 235370,
+  "rows_quarantine": 425,
+  "reasons": {
+    "url_dupliquee_meme_label": 425
+  },
+  "class_before": {
+    "1": 134850,
+    "0": 100945
+  },
+  "class_after": {
+    "1": 134850,
+    "0": 100520
+  },
+  "reconstructed_sha256": "2041a7127c7a2c60f05d8bbf3cfa77ae137c0d467b0c7af0c3b722f33ee8819b",
+  "clean_sha256": "3e9c96ce4b11f9c1033b3e57b516a23e17fdd2e3864e4ebaddc49f75fc0909bf"
+}
